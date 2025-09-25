@@ -306,6 +306,7 @@ AddButton(Main, {
 })
 
 
+
 local Toggle = AddToggle(Main, {
   Name = "تفعيل الكشف",
   Default = false,
